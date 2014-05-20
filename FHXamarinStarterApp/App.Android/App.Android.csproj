@@ -86,4 +86,7 @@
       <Name>App.Core</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\fhconfig.properties" />
+  </ItemGroup>
 </Project>

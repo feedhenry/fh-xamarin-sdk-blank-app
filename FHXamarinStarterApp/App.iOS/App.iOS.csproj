@@ -103,4 +103,7 @@
       <Name>App.Core</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="fhconfig.plist" />
+  </ItemGroup>
 </Project>
